@@ -1,0 +1,8 @@
+{
+  "mae": 7944.345689333305,
+  "r2": 0.9427179320775094,
+  "registros": 750,
+  "entrenamiento": 600,
+  "prueba": 150,
+  "algoritmo": "Random Forest"
+}

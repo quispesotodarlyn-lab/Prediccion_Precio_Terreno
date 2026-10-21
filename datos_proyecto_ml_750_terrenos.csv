@@ -1,0 +1,751 @@
+﻿id_terreno,distrito,zona,tipo_terreno,area_m2,antiguedad_anios,precio_soles
+1,Coviriali,Céntrica,Residencial,653,15,74069.02
+2,Coviriali,Céntrica,Agrícola,268,27,15896.62
+3,Satipo,Urbana,Residencial,1124,1,157391.96
+4,Coviriali,Rural,Residencial,1009,17,43899.23
+5,Satipo,Urbana,Agrícola,955,21,68620.29
+6,Pichanaqui,Periférica,Residencial,279,24,23813.63
+7,Mazamari,Periférica,Residencial,1030,34,75917.82
+8,Pangoa,Céntrica,Agrícola,690,23,53227.28
+9,Coviriali,Céntrica,Residencial,556,18,75420.88
+10,Pichanaqui,Céntrica,Comercial,659,29,162044.71
+11,Mazamari,Urbana,Comercial,817,13,128575.63
+12,Coviriali,Céntrica,Agrícola,440,34,31019.88
+13,Pichanaqui,Rural,Comercial,642,35,47532.61
+14,Mazamari,Céntrica,Residencial,155,20,22062.94
+15,Satipo,Urbana,Agrícola,734,13,57788.9
+16,Pangoa,Rural,Residencial,632,8,27244.79
+17,Río Negro,Periférica,Agrícola,967,25,37024.9
+18,Pichanaqui,Rural,Residencial,186,7,9667.51
+19,Pichanaqui,Rural,Agrícola,220,24,6665.78
+20,Pangoa,Periférica,Agrícola,113,7,4961.82
+21,Río Negro,Periférica,Agrícola,786,7,29583.02
+22,Pichanaqui,Rural,Residencial,629,32,37906.55
+23,Río Negro,Céntrica,Agrícola,701,32,51274.07
+24,Pichanaqui,Periférica,Residencial,1194,33,124165.77
+25,Río Negro,Periférica,Comercial,129,7,14342.32
+26,Mazamari,Urbana,Residencial,583,5,56702.66
+27,Pangoa,Céntrica,Agrícola,347,8,27287.63
+28,Río Negro,Urbana,Comercial,1170,27,174772.83
+29,Río Negro,Urbana,Agrícola,728,25,43006.26
+30,Coviriali,Periférica,Comercial,1149,28,98704.13
+31,Pichanaqui,Céntrica,Comercial,133,35,29621.11
+32,Pichanaqui,Céntrica,Residencial,210,14,32012.31
+33,Satipo,Periférica,Residencial,1142,15,111913.0
+34,Pangoa,Urbana,Agrícola,360,30,18950.3
+35,Pangoa,Rural,Residencial,283,6,13485.33
+36,Mazamari,Rural,Comercial,1046,3,74131.04
+37,Coviriali,Céntrica,Residencial,914,21,119062.46
+38,Satipo,Urbana,Residencial,479,34,65286.78
+39,Pangoa,Urbana,Comercial,1037,15,161392.85
+40,Satipo,Rural,Agrícola,290,3,10266.63
+41,Río Negro,Céntrica,Residencial,574,10,72719.55
+42,Pangoa,Urbana,Comercial,210,10,29116.96
+43,Pangoa,Periférica,Comercial,674,27,75591.25
+44,Coviriali,Rural,Residencial,478,18,18047.39
+45,Satipo,Céntrica,Agrícola,732,3,66906.47
+46,Pangoa,Urbana,Residencial,1130,5,124978.98
+47,Satipo,Céntrica,Agrícola,571,25,53170.04
+48,Río Negro,Urbana,Agrícola,171,5,8853.77
+49,Río Negro,Periférica,Comercial,508,20,47994.97
+50,Pangoa,Urbana,Agrícola,704,29,37752.01
+51,Satipo,Céntrica,Comercial,294,4,77373.68
+52,Río Negro,Periférica,Residencial,804,4,63157.25
+53,Mazamari,Periférica,Residencial,987,34,83852.38
+54,Río Negro,Céntrica,Agrícola,703,6,55388.57
+55,Pichanaqui,Periférica,Residencial,309,35,26785.84
+56,Mazamari,Urbana,Agrícola,792,13,49161.78
+57,Mazamari,Rural,Comercial,194,5,13625.17
+58,Mazamari,Céntrica,Residencial,773,8,116412.15
+59,Mazamari,Urbana,Agrícola,994,35,61958.0
+60,Río Negro,Céntrica,Residencial,244,9,31968.4
+61,Mazamari,Urbana,Comercial,351,2,50628.97
+62,Satipo,Periférica,Residencial,601,6,60019.09
+63,Río Negro,Rural,Agrícola,406,15,10490.69
+64,Pichanaqui,Rural,Residencial,457,21,27668.02
+65,Pangoa,Urbana,Comercial,416,6,57730.18
+66,Satipo,Rural,Residencial,498,29,29809.94
+67,Pichanaqui,Urbana,Residencial,485,25,58591.22
+68,Satipo,Periférica,Comercial,1133,25,171244.93
+69,Río Negro,Periférica,Residencial,326,16,21661.28
+70,Mazamari,Céntrica,Residencial,979,22,150567.51
+71,Mazamari,Rural,Agrícola,1137,7,29554.62
+72,Río Negro,Urbana,Comercial,180,27,21298.78
+73,Río Negro,Urbana,Comercial,973,4,144859.17
+74,Mazamari,Periférica,Agrícola,345,19,15396.02
+75,Coviriali,Rural,Comercial,914,18,52500.57
+76,Pichanaqui,Rural,Agrícola,866,11,27754.92
+77,Mazamari,Rural,Agrícola,90,19,2282.67
+78,Pangoa,Periférica,Comercial,994,28,110944.64
+79,Río Negro,Rural,Agrícola,437,5,9844.33
+80,Coviriali,Periférica,Residencial,571,19,35995.37
+81,Pichanaqui,Urbana,Residencial,184,15,25876.7
+82,Río Negro,Céntrica,Comercial,938,12,179109.23
+83,Pangoa,Rural,Comercial,589,9,39266.74
+84,Satipo,Céntrica,Comercial,538,11,150562.69
+85,Coviriali,Rural,Residencial,600,7,24046.09
+86,Pangoa,Periférica,Comercial,1123,27,129815.37
+87,Río Negro,Rural,Residencial,1062,28,43226.9
+88,Pichanaqui,Periférica,Agrícola,1082,15,53194.72
+89,Satipo,Periférica,Residencial,646,21,63967.94
+90,Río Negro,Céntrica,Residencial,398,14,50132.85
+91,Pichanaqui,Urbana,Residencial,939,26,113511.82
+92,Pangoa,Rural,Residencial,513,26,22922.11
+93,Río Negro,Céntrica,Agrícola,869,30,54596.89
+94,Mazamari,Periférica,Comercial,948,34,113889.29
+95,Río Negro,Urbana,Comercial,539,17,71326.05
+96,Satipo,Rural,Comercial,918,10,86333.18
+97,Pichanaqui,Céntrica,Comercial,145,5,35713.31
+98,Pichanaqui,Rural,Residencial,192,16,10570.53
+99,Pichanaqui,Rural,Comercial,781,24,58696.46
+100,Pangoa,Periférica,Residencial,1053,1,85368.91
+101,Satipo,Periférica,Residencial,230,2,25257.49
+102,Pichanaqui,Urbana,Residencial,402,15,46108.16
+103,Coviriali,Céntrica,Agrícola,536,29,37532.87
+104,Mazamari,Urbana,Agrícola,324,10,21392.12
+105,Satipo,Céntrica,Comercial,858,25,247494.09
+106,Pichanaqui,Céntrica,Agrícola,587,6,57515.79
+107,Mazamari,Céntrica,Agrícola,174,22,14062.72
+108,Coviriali,Periférica,Residencial,1126,21,67115.19
+109,Pangoa,Rural,Residencial,977,23,46303.55
+110,Pangoa,Urbana,Comercial,450,33,71438.72
+111,Mazamari,Rural,Comercial,982,17,63965.82
+112,Pichanaqui,Céntrica,Comercial,1013,15,255737.54
+113,Río Negro,Rural,Comercial,148,31,9704.97
+114,Pichanaqui,Rural,Residencial,816,16,44494.3
+115,Río Negro,Periférica,Agrícola,110,33,4824.42
+116,Satipo,Urbana,Agrícola,922,31,70906.49
+117,Pichanaqui,Rural,Agrícola,1095,28,36548.28
+118,Satipo,Periférica,Residencial,918,15,90593.89
+119,Río Negro,Periférica,Comercial,1177,22,116520.4
+120,Coviriali,Periférica,Comercial,1019,17,91826.38
+121,Pichanaqui,Céntrica,Agrícola,484,20,41146.19
+122,Río Negro,Urbana,Residencial,533,30,48423.34
+123,Río Negro,Periférica,Residencial,487,18,32770.67
+124,Pichanaqui,Periférica,Residencial,1183,8,105738.17
+125,Satipo,Periférica,Agrícola,348,31,17920.45
+126,Satipo,Periférica,Comercial,1070,28,149115.62
+127,Satipo,Periférica,Comercial,323,4,45687.38
+128,Satipo,Céntrica,Residencial,395,19,66262.28
+129,Pichanaqui,Céntrica,Agrícola,942,14,93959.98
+130,Pangoa,Rural,Comercial,698,27,42758.43
+131,Río Negro,Céntrica,Agrícola,293,13,21514.17
+132,Mazamari,Céntrica,Residencial,581,11,85766.82
+133,Pichanaqui,Céntrica,Comercial,1012,30,228924.23
+134,Pichanaqui,Periférica,Agrícola,669,29,31192.72
+135,Pichanaqui,Periférica,Agrícola,495,27,23349.01
+136,Pichanaqui,Urbana,Comercial,381,4,60105.35
+137,Mazamari,Periférica,Comercial,344,29,40776.06
+138,Coviriali,Rural,Comercial,1114,34,63069.74
+139,Satipo,Céntrica,Comercial,750,16,173355.49
+140,Pichanaqui,Céntrica,Agrícola,641,2,63755.55
+141,Pichanaqui,Rural,Agrícola,995,17,28657.13
+142,Río Negro,Rural,Agrícola,1097,5,25877.12
+143,Pangoa,Periférica,Comercial,304,10,31228.48
+144,Coviriali,Rural,Comercial,910,35,45859.79
+145,Satipo,Periférica,Comercial,752,7,121260.86
+146,Pangoa,Céntrica,Agrícola,1036,26,70066.79
+147,Río Negro,Periférica,Agrícola,1110,28,46698.75
+148,Pichanaqui,Periférica,Agrícola,358,18,18330.7
+149,Coviriali,Rural,Residencial,149,15,6338.32
+150,Mazamari,Céntrica,Agrícola,925,5,69274.82
+151,Satipo,Rural,Residencial,405,31,27762.05
+152,Mazamari,Periférica,Comercial,1078,30,114726.56
+153,Río Negro,Urbana,Comercial,480,32,68325.32
+154,Pichanaqui,Céntrica,Comercial,939,21,246918.37
+155,Río Negro,Periférica,Residencial,669,19,52069.33
+156,Río Negro,Rural,Residencial,1004,34,43209.8
+157,Mazamari,Rural,Comercial,749,12,56842.25
+158,Pichanaqui,Rural,Residencial,931,2,50484.17
+159,Pangoa,Rural,Comercial,401,31,28642.91
+160,Pichanaqui,Periférica,Residencial,991,6,94232.77
+161,Pangoa,Céntrica,Agrícola,385,26,31753.73
+162,Pichanaqui,Céntrica,Comercial,632,21,154956.74
+163,Pangoa,Céntrica,Comercial,1182,24,252701.87
+164,Coviriali,Rural,Agrícola,163,4,3399.7
+165,Coviriali,Periférica,Residencial,275,27,20693.49
+166,Coviriali,Céntrica,Comercial,430,19,80224.84
+167,Satipo,Periférica,Residencial,690,22,69269.83
+168,Pichanaqui,Urbana,Agrícola,933,11,59535.82
+169,Satipo,Rural,Agrícola,583,31,21885.26
+170,Pichanaqui,Urbana,Comercial,610,29,101285.32
+171,Satipo,Rural,Comercial,413,4,35404.08
+172,Mazamari,Periférica,Agrícola,958,16,42236.77
+173,Mazamari,Urbana,Comercial,1079,6,152855.15
+174,Río Negro,Periférica,Agrícola,695,18,24364.28
+175,Coviriali,Rural,Comercial,106,3,6602.49
+176,Coviriali,Rural,Comercial,561,22,29663.56
+177,Pichanaqui,Periférica,Agrícola,370,6,21092.61
+178,Coviriali,Céntrica,Comercial,992,2,171961.73
+179,Coviriali,Urbana,Residencial,694,20,66169.84
+180,Pichanaqui,Urbana,Residencial,1194,23,151557.97
+181,Mazamari,Urbana,Comercial,1076,18,172318.33
+182,Mazamari,Céntrica,Comercial,244,9,52843.22
+183,Pichanaqui,Rural,Agrícola,839,5,27989.53
+184,Satipo,Periférica,Agrícola,343,29,18909.46
+185,Coviriali,Periférica,Agrícola,870,23,29262.77
+186,Pichanaqui,Rural,Residencial,761,14,44677.74
+187,Coviriali,Rural,Agrícola,708,26,14319.83
+188,Satipo,Céntrica,Comercial,1098,7,258694.85
+189,Río Negro,Urbana,Comercial,1019,23,142557.29
+190,Coviriali,Rural,Agrícola,406,26,9379.9
+191,Pangoa,Rural,Comercial,157,23,9404.24
+192,Pangoa,Urbana,Comercial,293,23,42286.91
+193,Coviriali,Periférica,Residencial,905,17,56539.78
+194,Satipo,Rural,Residencial,524,1,29030.55
+195,Mazamari,Urbana,Residencial,510,4,59439.93
+196,Río Negro,Urbana,Agrícola,532,14,26933.83
+197,Pichanaqui,Céntrica,Comercial,386,8,92809.24
+198,Pichanaqui,Céntrica,Agrícola,142,8,11738.01
+199,Pichanaqui,Periférica,Residencial,446,16,37619.39
+200,Coviriali,Rural,Agrícola,322,4,7131.66
+201,Mazamari,Céntrica,Comercial,1121,14,253279.16
+202,Satipo,Periférica,Comercial,153,3,24822.54
+203,Pangoa,Rural,Agrícola,311,31,8251.42
+204,Pangoa,Céntrica,Residencial,749,9,92386.65
+205,Mazamari,Periférica,Comercial,1176,18,131877.01
+206,Río Negro,Rural,Residencial,324,35,14738.65
+207,Pichanaqui,Rural,Comercial,557,26,42505.48
+208,Pangoa,Rural,Comercial,284,20,17929.07
+209,Coviriali,Periférica,Comercial,402,30,34042.4
+210,Satipo,Céntrica,Comercial,287,23,80456.36
+211,Río Negro,Céntrica,Agrícola,765,7,53361.95
+212,Coviriali,Rural,Agrícola,195,18,4448.3
+213,Mazamari,Céntrica,Agrícola,1129,13,83032.39
+214,Pangoa,Urbana,Residencial,807,35,79697.62
+215,Mazamari,Urbana,Comercial,143,17,19177.25
+216,Mazamari,Periférica,Comercial,808,0,84621.14
+217,Pichanaqui,Rural,Residencial,380,1,19434.96
+218,Río Negro,Urbana,Comercial,949,29,122675.28
+219,Mazamari,Periférica,Agrícola,754,5,36681.12
+220,Pichanaqui,Urbana,Agrícola,191,5,12512.34
+221,Coviriali,Rural,Comercial,995,26,53345.19
+222,Río Negro,Céntrica,Comercial,970,7,166841.3
+223,Coviriali,Rural,Agrícola,721,2,14983.02
+224,Río Negro,Céntrica,Residencial,508,19,72873.29
+225,Pichanaqui,Periférica,Comercial,761,7,88785.44
+226,Coviriali,Rural,Residencial,354,24,14449.11
+227,Pichanaqui,Periférica,Residencial,903,2,84027.27
+228,Pangoa,Céntrica,Comercial,969,25,196196.27
+229,Pangoa,Periférica,Residencial,919,1,78169.61
+230,Pichanaqui,Rural,Agrícola,831,5,25521.11
+231,Satipo,Urbana,Comercial,910,33,158033.06
+232,Mazamari,Periférica,Residencial,772,10,56174.44
+233,Coviriali,Céntrica,Agrícola,1134,12,83162.1
+234,Mazamari,Periférica,Agrícola,392,15,15798.85
+235,Mazamari,Urbana,Residencial,403,4,40151.55
+236,Coviriali,Rural,Comercial,1009,20,62211.58
+237,Coviriali,Periférica,Residencial,990,4,66326.56
+238,Coviriali,Periférica,Comercial,205,22,19406.61
+239,Mazamari,Rural,Comercial,167,3,11004.72
+240,Mazamari,Céntrica,Agrícola,274,32,21362.9
+241,Río Negro,Céntrica,Comercial,475,20,88355.96
+242,Río Negro,Urbana,Residencial,1012,6,104402.65
+243,Mazamari,Céntrica,Agrícola,443,2,33373.48
+244,Pangoa,Rural,Agrícola,1160,10,28327.65
+245,Mazamari,Rural,Comercial,782,3,56900.63
+246,Coviriali,Periférica,Residencial,765,6,52355.84
+247,Pangoa,Periférica,Comercial,397,21,38248.14
+248,Coviriali,Urbana,Comercial,725,25,83215.14
+249,Coviriali,Céntrica,Comercial,861,21,157464.38
+250,Coviriali,Céntrica,Agrícola,957,32,61830.81
+251,Mazamari,Periférica,Residencial,528,21,47363.01
+252,Pangoa,Urbana,Residencial,371,9,34001.78
+253,Satipo,Céntrica,Agrícola,779,8,81683.17
+254,Pichanaqui,Urbana,Residencial,429,28,48134.34
+255,Mazamari,Urbana,Comercial,673,28,95261.47
+256,Pichanaqui,Periférica,Comercial,487,23,67187.3
+257,Río Negro,Rural,Comercial,667,24,40368.3
+258,Pangoa,Urbana,Residencial,373,16,33956.94
+259,Pangoa,Periférica,Agrícola,300,33,13686.32
+260,Mazamari,Céntrica,Residencial,648,28,103668.64
+261,Pichanaqui,Rural,Residencial,544,28,33692.12
+262,Satipo,Rural,Residencial,901,32,54259.59
+263,Pangoa,Céntrica,Comercial,549,1,101230.69
+264,Satipo,Periférica,Residencial,371,2,36434.46
+265,Pangoa,Urbana,Agrícola,1050,28,60535.7
+266,Satipo,Céntrica,Comercial,531,9,140117.62
+267,Coviriali,Rural,Residencial,680,15,26225.69
+268,Satipo,Urbana,Comercial,1026,4,179710.32
+269,Pangoa,Céntrica,Agrícola,1145,15,91264.91
+270,Mazamari,Rural,Residencial,812,15,40132.47
+271,Pichanaqui,Céntrica,Agrícola,828,4,85892.88
+272,Río Negro,Céntrica,Comercial,1052,2,197089.96
+273,Mazamari,Periférica,Agrícola,123,22,5859.09
+274,Mazamari,Urbana,Agrícola,302,21,16360.51
+275,Mazamari,Periférica,Agrícola,448,29,22261.53
+276,Pangoa,Urbana,Residencial,219,29,19855.71
+277,Pichanaqui,Céntrica,Residencial,175,20,32863.59
+278,Río Negro,Rural,Agrícola,1059,16,22363.57
+279,Coviriali,Urbana,Comercial,821,3,112527.69
+280,Mazamari,Periférica,Residencial,843,27,74665.87
+281,Coviriali,Rural,Comercial,784,11,44412.29
+282,Pangoa,Periférica,Agrícola,636,5,28218.09
+283,Satipo,Rural,Agrícola,459,34,14901.19
+284,Satipo,Céntrica,Comercial,695,19,178916.98
+285,Coviriali,Rural,Residencial,999,22,39946.11
+286,Coviriali,Periférica,Agrícola,980,17,37600.32
+287,Satipo,Céntrica,Agrícola,921,23,94666.65
+288,Coviriali,Urbana,Residencial,382,28,30541.53
+289,Satipo,Urbana,Agrícola,840,23,61963.5
+290,Río Negro,Céntrica,Agrícola,404,28,31899.08
+291,Mazamari,Rural,Residencial,371,33,17454.85
+292,Mazamari,Periférica,Residencial,322,1,27557.25
+293,Pangoa,Rural,Agrícola,331,16,8907.53
+294,Coviriali,Rural,Residencial,674,31,25332.78
+295,Pichanaqui,Céntrica,Comercial,443,28,118086.23
+296,Coviriali,Periférica,Agrícola,801,4,30093.95
+297,Mazamari,Periférica,Residencial,446,23,36201.91
+298,Satipo,Urbana,Residencial,574,31,70206.24
+299,Río Negro,Periférica,Comercial,355,5,32054.58
+300,Pangoa,Rural,Agrícola,931,26,25326.97
+301,Satipo,Urbana,Comercial,241,28,46179.4
+302,Río Negro,Periférica,Residencial,462,8,32726.07
+303,Satipo,Céntrica,Agrícola,403,19,37970.01
+304,Mazamari,Urbana,Comercial,1152,18,188643.74
+305,Mazamari,Urbana,Agrícola,652,8,39890.87
+306,Río Negro,Céntrica,Agrícola,435,9,28560.0
+307,Río Negro,Periférica,Agrícola,174,1,6197.87
+308,Coviriali,Periférica,Agrícola,521,26,19890.4
+309,Satipo,Rural,Agrícola,683,19,23232.38
+310,Coviriali,Rural,Comercial,1018,4,60333.45
+311,Pichanaqui,Rural,Comercial,1081,29,79714.33
+312,Río Negro,Urbana,Comercial,743,22,111252.12
+313,Pichanaqui,Periférica,Agrícola,307,20,14967.31
+314,Satipo,Periférica,Comercial,597,9,78134.6
+315,Mazamari,Rural,Agrícola,946,15,28094.52
+316,Pichanaqui,Periférica,Agrícola,730,12,40337.74
+317,Pangoa,Rural,Comercial,721,31,41029.39
+318,Pangoa,Rural,Residencial,530,22,21691.85
+319,Mazamari,Rural,Agrícola,1053,18,28394.54
+320,Satipo,Rural,Residencial,631,23,41666.52
+321,Mazamari,Céntrica,Comercial,194,35,36697.34
+322,Río Negro,Periférica,Residencial,881,32,62676.21
+323,Río Negro,Periférica,Agrícola,333,8,14690.36
+324,Pangoa,Periférica,Comercial,838,9,83267.52
+325,Río Negro,Rural,Agrícola,172,2,3634.48
+326,Coviriali,Periférica,Comercial,1153,29,99778.28
+327,Río Negro,Urbana,Comercial,742,10,97162.78
+328,Río Negro,Periférica,Agrícola,778,32,33236.21
+329,Río Negro,Rural,Agrícola,703,30,17969.05
+330,Mazamari,Periférica,Agrícola,314,26,14269.71
+331,Coviriali,Céntrica,Agrícola,1061,16,78849.15
+332,Río Negro,Urbana,Agrícola,195,30,9481.82
+333,Coviriali,Rural,Residencial,586,2,24146.35
+334,Coviriali,Céntrica,Residencial,128,28,14856.61
+335,Pichanaqui,Rural,Agrícola,507,26,15817.7
+336,Río Negro,Rural,Agrícola,217,8,5179.04
+337,Río Negro,Periférica,Agrícola,1069,33,41080.97
+338,Pichanaqui,Rural,Agrícola,791,34,23804.69
+339,Coviriali,Periférica,Agrícola,1081,12,44537.07
+340,Mazamari,Periférica,Residencial,699,18,59403.31
+341,Coviriali,Rural,Comercial,1072,22,61664.78
+342,Coviriali,Periférica,Comercial,339,34,31110.53
+343,Pangoa,Periférica,Residencial,684,2,49659.01
+344,Coviriali,Céntrica,Comercial,995,16,179296.36
+345,Pichanaqui,Urbana,Agrícola,645,35,46802.96
+346,Pichanaqui,Céntrica,Agrícola,580,15,48411.58
+347,Río Negro,Urbana,Agrícola,566,3,27017.28
+348,Mazamari,Rural,Residencial,371,0,20040.73
+349,Pichanaqui,Rural,Agrícola,1064,30,34379.64
+350,Mazamari,Periférica,Comercial,211,5,24801.99
+351,Pichanaqui,Céntrica,Residencial,945,11,177484.66
+352,Satipo,Rural,Comercial,471,18,44651.26
+353,Satipo,Periférica,Agrícola,309,21,16680.34
+354,Coviriali,Rural,Residencial,1122,29,42963.6
+355,Satipo,Periférica,Residencial,1029,16,112088.95
+356,Satipo,Periférica,Comercial,485,11,72147.9
+357,Coviriali,Rural,Comercial,1145,20,58482.4
+358,Coviriali,Céntrica,Residencial,377,30,43866.3
+359,Pichanaqui,Céntrica,Comercial,875,15,205708.78
+360,Mazamari,Periférica,Comercial,113,16,13286.84
+361,Coviriali,Urbana,Residencial,332,29,28494.57
+362,Pangoa,Periférica,Agrícola,330,18,13443.36
+363,Pichanaqui,Urbana,Residencial,1069,9,133238.62
+364,Río Negro,Periférica,Comercial,1054,34,113943.58
+365,Pichanaqui,Urbana,Agrícola,257,33,17582.48
+366,Coviriali,Periférica,Residencial,319,3,23231.54
+367,Río Negro,Urbana,Agrícola,1189,9,57724.78
+368,Río Negro,Rural,Residencial,510,31,19869.03
+369,Río Negro,Rural,Residencial,1018,8,44117.43
+370,Pangoa,Céntrica,Agrícola,1036,19,82665.99
+371,Pangoa,Periférica,Residencial,536,4,36529.22
+372,Mazamari,Céntrica,Agrícola,213,4,19073.3
+373,Pangoa,Céntrica,Comercial,927,11,190243.19
+374,Coviriali,Rural,Comercial,873,28,53890.11
+375,Pangoa,Rural,Residencial,1194,8,56824.05
+376,Mazamari,Céntrica,Residencial,1190,25,174703.02
+377,Coviriali,Urbana,Residencial,136,19,12131.32
+378,Coviriali,Rural,Agrícola,866,14,18121.22
+379,Mazamari,Urbana,Comercial,476,7,63891.15
+380,Coviriali,Rural,Agrícola,122,15,2525.85
+381,Satipo,Céntrica,Comercial,189,15,52140.77
+382,Pangoa,Rural,Residencial,1195,13,58199.26
+383,Satipo,Urbana,Agrícola,682,14,55686.91
+384,Coviriali,Periférica,Agrícola,746,15,26377.61
+385,Pichanaqui,Urbana,Comercial,705,17,111257.96
+386,Río Negro,Urbana,Agrícola,964,35,50845.7
+387,Mazamari,Rural,Agrícola,742,26,19396.97
+388,Mazamari,Rural,Residencial,1191,30,54284.18
+389,Pichanaqui,Periférica,Agrícola,385,29,22002.17
+390,Río Negro,Rural,Comercial,1175,8,69160.95
+391,Mazamari,Urbana,Comercial,251,28,41112.99
+392,Satipo,Urbana,Residencial,639,24,91857.54
+393,Río Negro,Céntrica,Residencial,475,35,57379.09
+394,Pichanaqui,Periférica,Comercial,121,13,17687.86
+395,Coviriali,Céntrica,Agrícola,1070,15,74859.83
+396,Coviriali,Urbana,Comercial,580,35,69951.27
+397,Mazamari,Rural,Comercial,1182,22,76725.53
+398,Mazamari,Rural,Comercial,291,30,21042.88
+399,Mazamari,Urbana,Comercial,730,26,98341.89
+400,Pichanaqui,Urbana,Residencial,624,35,86827.78
+401,Río Negro,Rural,Comercial,402,12,23320.21
+402,Pangoa,Urbana,Comercial,781,16,118576.02
+403,Pangoa,Rural,Comercial,434,22,25675.13
+404,Coviriali,Rural,Residencial,1200,3,48879.29
+405,Satipo,Céntrica,Residencial,934,8,188309.21
+406,Pichanaqui,Céntrica,Agrícola,399,0,34808.5
+407,Pangoa,Periférica,Residencial,1079,31,72949.93
+408,Río Negro,Rural,Residencial,124,33,5642.46
+409,Río Negro,Periférica,Residencial,1118,27,86410.87
+410,Pichanaqui,Céntrica,Residencial,1163,9,185527.94
+411,Río Negro,Periférica,Comercial,637,25,57722.16
+412,Pangoa,Rural,Agrícola,588,14,14131.45
+413,Satipo,Céntrica,Residencial,920,24,166343.37
+414,Pangoa,Céntrica,Agrícola,109,10,7428.32
+415,Pangoa,Periférica,Agrícola,285,33,13197.67
+416,Pichanaqui,Urbana,Agrícola,1063,17,65649.2
+417,Satipo,Periférica,Agrícola,157,11,9856.9
+418,Mazamari,Céntrica,Residencial,385,25,61910.77
+419,Mazamari,Urbana,Agrícola,582,24,36039.66
+420,Río Negro,Periférica,Comercial,376,5,37908.01
+421,Mazamari,Céntrica,Residencial,985,14,155286.14
+422,Mazamari,Rural,Comercial,150,17,10900.53
+423,Pangoa,Rural,Residencial,818,35,41521.38
+424,Pangoa,Urbana,Agrícola,868,5,51875.55
+425,Mazamari,Urbana,Agrícola,240,5,13462.13
+426,Pangoa,Urbana,Agrícola,887,20,48097.1
+427,Satipo,Céntrica,Comercial,1000,23,277179.45
+428,Satipo,Urbana,Residencial,473,27,64472.6
+429,Río Negro,Rural,Residencial,143,5,5961.01
+430,Satipo,Periférica,Comercial,115,18,16318.81
+431,Satipo,Urbana,Agrícola,1157,10,91722.0
+432,Pichanaqui,Urbana,Comercial,706,17,124332.88
+433,Satipo,Urbana,Comercial,655,26,120464.27
+434,Satipo,Periférica,Comercial,595,31,88156.52
+435,Pichanaqui,Rural,Residencial,367,19,18345.63
+436,Pangoa,Periférica,Agrícola,868,21,35997.15
+437,Pangoa,Urbana,Comercial,746,12,105992.14
+438,Pichanaqui,Rural,Comercial,686,31,60567.93
+439,Pichanaqui,Periférica,Comercial,664,25,85001.28
+440,Río Negro,Urbana,Agrícola,458,35,21436.73
+441,Coviriali,Rural,Agrícola,519,28,12386.68
+442,Coviriali,Céntrica,Comercial,1112,8,195204.16
+443,Pichanaqui,Periférica,Agrícola,405,27,22510.28
+444,Satipo,Rural,Agrícola,1071,25,36881.72
+445,Coviriali,Rural,Agrícola,165,23,3853.23
+446,Río Negro,Céntrica,Residencial,598,22,71294.63
+447,Río Negro,Céntrica,Agrícola,908,21,71956.38
+448,Pangoa,Céntrica,Residencial,291,16,37397.19
+449,Coviriali,Urbana,Comercial,856,25,106899.87
+450,Coviriali,Urbana,Comercial,140,30,15965.82
+451,Pangoa,Céntrica,Residencial,380,22,49963.67
+452,Pangoa,Urbana,Agrícola,1079,22,60185.6
+453,Pangoa,Rural,Comercial,227,19,12993.01
+454,Coviriali,Céntrica,Residencial,792,6,100318.98
+455,Pichanaqui,Urbana,Agrícola,447,35,28450.38
+456,Río Negro,Rural,Comercial,564,25,35173.01
+457,Pichanaqui,Rural,Comercial,149,12,11684.48
+458,Pangoa,Rural,Residencial,529,13,22989.41
+459,Coviriali,Céntrica,Agrícola,298,34,18417.73
+460,Mazamari,Urbana,Comercial,323,16,50838.4
+461,Pangoa,Periférica,Agrícola,885,25,38013.91
+462,Mazamari,Periférica,Comercial,443,19,55284.13
+463,Río Negro,Céntrica,Agrícola,364,20,23566.34
+464,Mazamari,Céntrica,Residencial,854,9,124836.68
+465,Pangoa,Urbana,Agrícola,875,27,45385.36
+466,Coviriali,Urbana,Agrícola,431,31,20253.27
+467,Pichanaqui,Periférica,Comercial,199,22,29182.73
+468,Pangoa,Urbana,Residencial,876,35,89468.62
+469,Pangoa,Rural,Agrícola,1097,26,29090.48
+470,Pangoa,Rural,Residencial,259,1,12732.29
+471,Pichanaqui,Periférica,Residencial,652,14,62170.13
+472,Pichanaqui,Rural,Agrícola,1104,35,34517.53
+473,Río Negro,Céntrica,Comercial,841,34,164405.65
+474,Satipo,Rural,Agrícola,537,27,16591.11
+475,Coviriali,Urbana,Comercial,156,28,18537.1
+476,Satipo,Rural,Residencial,575,13,38370.16
+477,Río Negro,Periférica,Agrícola,966,10,39319.97
+478,Pichanaqui,Urbana,Residencial,808,34,96459.05
+479,Río Negro,Urbana,Comercial,689,18,94218.1
+480,Río Negro,Céntrica,Residencial,932,3,135063.85
+481,Coviriali,Urbana,Agrícola,361,15,16352.35
+482,Mazamari,Urbana,Agrícola,894,31,48543.13
+483,Coviriali,Periférica,Agrícola,938,24,34422.02
+484,Coviriali,Céntrica,Comercial,1145,17,203865.62
+485,Mazamari,Rural,Comercial,760,0,56288.73
+486,Coviriali,Céntrica,Agrícola,1028,22,74468.32
+487,Río Negro,Rural,Residencial,969,13,41807.7
+488,Mazamari,Periférica,Comercial,357,31,43284.99
+489,Coviriali,Céntrica,Residencial,293,29,31466.67
+490,Pichanaqui,Rural,Comercial,91,27,6707.5
+491,Coviriali,Urbana,Agrícola,708,10,38195.29
+492,Mazamari,Céntrica,Agrícola,828,16,59743.04
+493,Coviriali,Urbana,Residencial,901,19,85488.1
+494,Pichanaqui,Rural,Agrícola,276,6,7576.46
+495,Pangoa,Céntrica,Residencial,553,33,79437.38
+496,Satipo,Céntrica,Agrícola,793,7,90774.32
+497,Pangoa,Urbana,Comercial,235,14,32616.25
+498,Coviriali,Céntrica,Residencial,731,23,96937.65
+499,Pichanaqui,Rural,Residencial,382,4,21817.99
+500,Satipo,Urbana,Comercial,809,13,161103.3
+501,Pichanaqui,Rural,Agrícola,996,13,27979.24
+502,Satipo,Urbana,Residencial,876,22,134328.29
+503,Mazamari,Urbana,Residencial,657,5,66667.43
+504,Río Negro,Periférica,Agrícola,144,19,5299.28
+505,Río Negro,Urbana,Agrícola,892,18,48749.82
+506,Pichanaqui,Rural,Comercial,320,15,25399.06
+507,Río Negro,Céntrica,Agrícola,114,23,8972.17
+508,Pichanaqui,Rural,Agrícola,951,23,29986.88
+509,Pichanaqui,Rural,Residencial,124,4,6210.38
+510,Pichanaqui,Céntrica,Residencial,905,32,146052.14
+511,Coviriali,Rural,Comercial,913,5,53513.15
+512,Río Negro,Urbana,Comercial,261,19,31534.26
+513,Pichanaqui,Urbana,Agrícola,759,25,53689.86
+514,Coviriali,Céntrica,Comercial,985,15,149771.17
+515,Satipo,Rural,Residencial,1018,3,60324.3
+516,Coviriali,Urbana,Residencial,115,8,10850.53
+517,Pichanaqui,Rural,Comercial,1161,33,98419.41
+518,Coviriali,Periférica,Residencial,851,8,60885.97
+519,Mazamari,Céntrica,Residencial,776,27,106949.21
+520,Satipo,Periférica,Agrícola,247,31,13909.29
+521,Mazamari,Céntrica,Comercial,431,23,80740.1
+522,Satipo,Céntrica,Residencial,1132,0,187813.54
+523,Satipo,Urbana,Residencial,1056,23,141635.24
+524,Pichanaqui,Urbana,Residencial,948,14,114339.51
+525,Pangoa,Periférica,Comercial,249,23,24231.95
+526,Coviriali,Céntrica,Residencial,547,33,74139.3
+527,Pangoa,Céntrica,Comercial,668,19,123439.52
+528,Río Negro,Rural,Residencial,845,12,34678.17
+529,Mazamari,Urbana,Comercial,844,31,142858.56
+530,Pichanaqui,Urbana,Residencial,103,26,11495.11
+531,Río Negro,Periférica,Agrícola,109,21,3799.95
+532,Coviriali,Rural,Agrícola,719,6,14882.56
+533,Pichanaqui,Rural,Comercial,212,9,17683.39
+534,Satipo,Céntrica,Residencial,1154,26,225353.43
+535,Mazamari,Rural,Agrícola,263,6,7039.15
+536,Coviriali,Rural,Residencial,217,27,9131.13
+537,Pichanaqui,Urbana,Comercial,624,20,121328.63
+538,Pangoa,Periférica,Comercial,1017,17,101957.04
+539,Pichanaqui,Urbana,Agrícola,313,9,19638.03
+540,Pangoa,Rural,Comercial,922,7,59758.55
+541,Pichanaqui,Rural,Comercial,1038,16,89366.83
+542,Satipo,Urbana,Agrícola,713,2,50415.39
+543,Mazamari,Urbana,Residencial,598,22,62975.77
+544,Satipo,Periférica,Comercial,446,1,71637.46
+545,Pangoa,Urbana,Residencial,1036,6,113379.21
+546,Pichanaqui,Céntrica,Residencial,216,14,33485.25
+547,Pangoa,Periférica,Agrícola,262,16,12128.03
+548,Satipo,Céntrica,Residencial,494,28,98863.9
+549,Satipo,Periférica,Residencial,177,29,16343.8
+550,Río Negro,Rural,Agrícola,898,31,18927.07
+551,Coviriali,Rural,Residencial,814,13,36197.54
+552,Mazamari,Periférica,Comercial,394,2,45903.18
+553,Río Negro,Urbana,Agrícola,694,31,35869.23
+554,Río Negro,Rural,Residencial,269,17,11294.53
+555,Pangoa,Urbana,Agrícola,1166,15,67465.32
+556,Río Negro,Céntrica,Comercial,825,30,151287.31
+557,Pangoa,Periférica,Agrícola,1118,20,45779.72
+558,Pichanaqui,Céntrica,Comercial,538,1,140288.55
+559,Mazamari,Céntrica,Comercial,1174,22,254983.73
+560,Pichanaqui,Urbana,Residencial,597,15,71007.05
+561,Coviriali,Céntrica,Residencial,885,22,118758.69
+562,Pichanaqui,Urbana,Residencial,741,22,102642.4
+563,Satipo,Periférica,Agrícola,381,12,23441.01
+564,Pangoa,Periférica,Residencial,1094,2,75460.98
+565,Pichanaqui,Urbana,Residencial,1168,30,129531.98
+566,Río Negro,Urbana,Residencial,787,11,83145.53
+567,Mazamari,Céntrica,Residencial,392,9,60917.05
+568,Río Negro,Periférica,Residencial,855,25,62830.84
+569,Mazamari,Periférica,Comercial,369,10,44178.04
+570,Pangoa,Rural,Agrícola,739,11,19583.71
+571,Río Negro,Periférica,Residencial,449,24,30829.2
+572,Coviriali,Periférica,Residencial,453,0,33870.98
+573,Río Negro,Rural,Agrícola,156,11,3797.64
+574,Río Negro,Urbana,Agrícola,303,31,14618.61
+575,Coviriali,Céntrica,Residencial,800,20,89452.48
+576,Satipo,Periférica,Comercial,113,16,15232.85
+577,Coviriali,Céntrica,Comercial,615,6,110145.37
+578,Satipo,Rural,Comercial,949,10,90120.75
+579,Pangoa,Rural,Comercial,858,6,59485.99
+580,Río Negro,Urbana,Residencial,1014,4,104333.95
+581,Satipo,Periférica,Residencial,742,16,85121.71
+582,Satipo,Periférica,Residencial,858,10,93747.23
+583,Río Negro,Céntrica,Comercial,1078,1,192368.49
+584,Coviriali,Urbana,Agrícola,979,10,43268.12
+585,Mazamari,Urbana,Residencial,928,35,105564.85
+586,Coviriali,Periférica,Agrícola,666,19,23167.85
+587,Satipo,Rural,Agrícola,1095,9,33400.99
+588,Satipo,Rural,Residencial,693,30,39933.4
+589,Satipo,Urbana,Residencial,687,5,94204.64
+590,Satipo,Periférica,Comercial,1054,31,167198.4
+591,Mazamari,Céntrica,Agrícola,883,11,68615.91
+592,Pangoa,Periférica,Residencial,1002,2,72298.42
+593,Pangoa,Periférica,Residencial,640,3,44860.65
+594,Coviriali,Céntrica,Residencial,794,34,94479.53
+595,Río Negro,Urbana,Agrícola,214,24,12162.65
+596,Pangoa,Rural,Agrícola,572,30,13743.04
+597,Pangoa,Céntrica,Agrícola,1148,9,79020.39
+598,Pangoa,Urbana,Residencial,523,12,48560.04
+599,Pangoa,Céntrica,Agrícola,981,12,83162.87
+600,Coviriali,Urbana,Agrícola,618,20,33607.06
+601,Satipo,Céntrica,Comercial,903,35,225692.29
+602,Mazamari,Rural,Residencial,1160,26,51133.29
+603,Pichanaqui,Urbana,Agrícola,295,6,20751.05
+604,Satipo,Periférica,Agrícola,794,26,42639.89
+605,Coviriali,Rural,Agrícola,1058,2,21712.89
+606,Pangoa,Urbana,Agrícola,912,2,49883.62
+607,Mazamari,Urbana,Residencial,1063,17,125743.39
+608,Satipo,Periférica,Comercial,726,17,113853.38
+609,Coviriali,Céntrica,Residencial,365,19,49394.81
+610,Pangoa,Periférica,Comercial,943,5,93431.21
+611,Pichanaqui,Rural,Agrícola,1082,33,36715.71
+612,Satipo,Urbana,Residencial,727,32,97999.68
+613,Río Negro,Céntrica,Residencial,484,12,67799.36
+614,Pichanaqui,Céntrica,Comercial,193,23,48218.26
+615,Mazamari,Periférica,Comercial,1124,25,131603.89
+616,Satipo,Céntrica,Residencial,852,31,162310.16
+617,Pichanaqui,Rural,Agrícola,806,22,23105.28
+618,Mazamari,Céntrica,Comercial,146,24,26580.46
+619,Río Negro,Urbana,Residencial,551,13,49964.51
+620,Pangoa,Céntrica,Agrícola,108,30,8987.21
+621,Coviriali,Urbana,Agrícola,107,14,4981.75
+622,Mazamari,Periférica,Comercial,861,22,96676.6
+623,Pichanaqui,Rural,Comercial,1156,25,93623.96
+624,Satipo,Periférica,Agrícola,668,19,39708.89
+625,Pangoa,Céntrica,Comercial,656,20,137435.41
+626,Mazamari,Periférica,Residencial,397,33,34205.85
+627,Satipo,Rural,Agrícola,744,8,26760.86
+628,Coviriali,Rural,Comercial,621,26,34404.51
+629,Coviriali,Céntrica,Agrícola,478,21,33679.12
+630,Pichanaqui,Rural,Agrícola,824,32,24464.21
+631,Pichanaqui,Urbana,Comercial,289,30,46427.46
+632,Mazamari,Urbana,Agrícola,777,5,43077.23
+633,Pichanaqui,Periférica,Comercial,768,23,95767.51
+634,Mazamari,Rural,Residencial,1053,3,55675.91
+635,Río Negro,Céntrica,Comercial,488,32,80463.71
+636,Coviriali,Rural,Agrícola,701,26,13943.6
+637,Pichanaqui,Urbana,Residencial,791,26,111319.55
+638,Pangoa,Urbana,Comercial,459,5,65349.84
+639,Coviriali,Urbana,Comercial,208,0,25906.42
+640,Pichanaqui,Urbana,Agrícola,414,31,30654.06
+641,Satipo,Urbana,Agrícola,978,27,72509.13
+642,Pangoa,Rural,Residencial,167,34,7112.32
+643,Mazamari,Céntrica,Comercial,1177,12,212452.37
+644,Satipo,Urbana,Residencial,795,19,99939.6
+645,Pangoa,Periférica,Residencial,223,2,16233.28
+646,Mazamari,Rural,Agrícola,1155,33,29671.58
+647,Coviriali,Urbana,Comercial,1093,22,145984.9
+648,Pichanaqui,Rural,Residencial,557,14,33303.76
+649,Pichanaqui,Urbana,Agrícola,134,32,8548.47
+650,Mazamari,Céntrica,Comercial,613,34,128823.31
+651,Río Negro,Céntrica,Agrícola,311,1,19764.54
+652,Satipo,Rural,Comercial,868,7,76320.27
+653,Pangoa,Urbana,Residencial,109,19,10906.86
+654,Satipo,Periférica,Agrícola,370,26,22733.68
+655,Satipo,Céntrica,Comercial,323,6,84199.15
+656,Río Negro,Urbana,Comercial,1161,12,150717.68
+657,Pangoa,Periférica,Residencial,170,35,12993.62
+658,Pichanaqui,Rural,Comercial,570,0,39955.46
+659,Satipo,Céntrica,Agrícola,1101,9,124982.87
+660,Río Negro,Céntrica,Agrícola,297,16,21903.51
+661,Pangoa,Periférica,Comercial,1040,3,100686.03
+662,Pichanaqui,Céntrica,Comercial,827,20,193443.87
+663,Satipo,Céntrica,Residencial,109,8,21102.83
+664,Pichanaqui,Periférica,Comercial,986,17,142296.91
+665,Satipo,Periférica,Comercial,464,7,65632.54
+666,Pangoa,Periférica,Comercial,1069,26,118579.84
+667,Pichanaqui,Céntrica,Residencial,210,10,32323.62
+668,Río Negro,Rural,Agrícola,987,11,24077.68
+669,Mazamari,Céntrica,Agrícola,357,30,31516.25
+670,Satipo,Rural,Comercial,184,4,15081.73
+671,Mazamari,Céntrica,Agrícola,1164,14,104046.92
+672,Coviriali,Periférica,Agrícola,1161,6,42407.47
+673,Coviriali,Urbana,Comercial,798,24,92069.5
+674,Río Negro,Céntrica,Residencial,411,32,57725.15
+675,Pangoa,Urbana,Residencial,1096,20,104840.11
+676,Mazamari,Céntrica,Agrícola,546,35,45289.73
+677,Pangoa,Urbana,Residencial,1030,28,112656.12
+678,Pangoa,Céntrica,Comercial,1005,20,176014.33
+679,Pangoa,Céntrica,Residencial,916,26,112081.92
+680,Río Negro,Céntrica,Residencial,713,32,93787.16
+681,Coviriali,Rural,Comercial,834,3,50880.79
+682,Pangoa,Periférica,Agrícola,1058,23,46822.1
+683,Satipo,Céntrica,Agrícola,544,0,53618.66
+684,Coviriali,Periférica,Agrícola,1159,23,45114.86
+685,Satipo,Urbana,Comercial,377,26,65965.8
+686,Río Negro,Urbana,Residencial,337,25,30143.7
+687,Pichanaqui,Periférica,Residencial,938,2,97716.98
+688,Coviriali,Céntrica,Comercial,1026,32,159219.17
+689,Pangoa,Céntrica,Agrícola,189,35,15809.35
+690,Río Negro,Rural,Agrícola,452,11,11333.62
+691,Pichanaqui,Céntrica,Comercial,749,32,194693.45
+692,Pangoa,Urbana,Comercial,904,21,143667.92
+693,Pangoa,Urbana,Residencial,935,32,90767.36
+694,Coviriali,Periférica,Agrícola,535,12,18478.12
+695,Coviriali,Periférica,Agrícola,797,8,33006.72
+696,Coviriali,Urbana,Agrícola,750,7,39448.51
+697,Río Negro,Rural,Agrícola,944,34,21277.08
+698,Pangoa,Céntrica,Agrícola,308,1,22659.45
+699,Satipo,Céntrica,Residencial,636,10,132236.93
+700,Coviriali,Periférica,Residencial,217,18,13606.94
+701,Río Negro,Céntrica,Comercial,1016,6,189479.97
+702,Coviriali,Urbana,Agrícola,886,15,43971.96
+703,Coviriali,Periférica,Agrícola,186,24,6718.9
+704,Coviriali,Periférica,Agrícola,200,0,7859.22
+705,Pichanaqui,Rural,Residencial,843,34,50533.49
+706,Pichanaqui,Urbana,Comercial,1009,11,198639.29
+707,Satipo,Urbana,Residencial,1142,7,152951.26
+708,Pangoa,Periférica,Agrícola,631,8,24388.82
+709,Mazamari,Céntrica,Comercial,1045,9,189753.44
+710,Mazamari,Céntrica,Agrícola,706,31,60553.24
+711,Río Negro,Periférica,Residencial,740,33,49699.1
+712,Pichanaqui,Céntrica,Agrícola,416,26,39321.27
+713,Pangoa,Céntrica,Comercial,543,13,108783.01
+714,Mazamari,Periférica,Comercial,537,33,60528.34
+715,Río Negro,Céntrica,Residencial,798,28,96975.98
+716,Coviriali,Urbana,Residencial,747,24,73941.15
+717,Satipo,Rural,Comercial,1196,18,92119.15
+718,Río Negro,Periférica,Agrícola,1131,28,44645.76
+719,Mazamari,Urbana,Comercial,1142,5,191244.7
+720,Pichanaqui,Céntrica,Agrícola,224,13,21813.02
+721,Pichanaqui,Rural,Residencial,511,34,31259.72
+722,Coviriali,Rural,Agrícola,237,9,4675.77
+723,Coviriali,Periférica,Residencial,269,4,16215.09
+724,Mazamari,Céntrica,Agrícola,556,16,43597.26
+725,Pangoa,Rural,Comercial,737,1,46103.66
+726,Satipo,Céntrica,Agrícola,219,2,23521.7
+727,Satipo,Periférica,Agrícola,307,18,18679.27
+728,Mazamari,Céntrica,Comercial,986,24,196195.98
+729,Coviriali,Céntrica,Comercial,410,34,65052.16
+730,Coviriali,Rural,Agrícola,694,9,14709.61
+731,Coviriali,Periférica,Residencial,379,7,22769.08
+732,Río Negro,Rural,Agrícola,264,19,5836.14
+733,Coviriali,Periférica,Residencial,935,32,57696.77
+734,Pichanaqui,Urbana,Agrícola,607,12,38174.47
+735,Coviriali,Céntrica,Agrícola,1034,35,62018.38
+736,Coviriali,Céntrica,Comercial,291,12,52179.05
+737,Pangoa,Periférica,Comercial,352,15,34080.48
+738,Río Negro,Céntrica,Residencial,740,31,94768.02
+739,Río Negro,Periférica,Agrícola,402,23,17094.8
+740,Pangoa,Urbana,Residencial,731,15,79673.85
+741,Coviriali,Rural,Comercial,826,8,48852.72
+742,Mazamari,Rural,Comercial,1002,22,72671.89
+743,Pangoa,Céntrica,Residencial,257,17,38435.58
+744,Pichanaqui,Urbana,Comercial,246,4,47478.04
+745,Río Negro,Céntrica,Agrícola,919,13,71894.03
+746,Río Negro,Periférica,Agrícola,1195,30,49069.98
+747,Pichanaqui,Periférica,Comercial,547,18,66009.22
+748,Río Negro,Céntrica,Comercial,835,32,133707.23
+749,Pichanaqui,Urbana,Agrícola,377,28,23989.33
+750,Río Negro,Urbana,Agrícola,1080,22,50734.3
